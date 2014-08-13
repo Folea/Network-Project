@@ -1,0 +1,57 @@
+Recibe CONEXION; numero de segmento = 0; numero de ACK = 0; numero de MSS = 700
+Envio ACK_CONEXION; numero de segmento = 0; numero de ACK = 0; numero de MSS = 512
+Recibe DATOS; numero de segmento = 1; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 1; numero de ACK = 1; numero de MSS= 512
+Recibe DATOS; numero de segmento = 2; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 2; numero de ACK = 2; numero de MSS= 512
+Recibe DATOS; numero de segmento = 3; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 3; numero de ACK = 3; numero de MSS= 512
+Recibe DATOS; numero de segmento = 4; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 4; numero de ACK = 4; numero de MSS= 512
+Recibe DATOS; numero de segmento = 5; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 5; numero de ACK = 5; numero de MSS= 512
+Recibe DATOS; numero de segmento = 6; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 6; numero de ACK = 6; numero de MSS= 512
+Recibe DATOS; numero de segmento = 7; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 7; numero de ACK = 7; numero de MSS= 512
+Recibe DATOS; numero de segmento = 8; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 8; numero de ACK = 8; numero de MSS= 512
+Recibe DATOS; numero de segmento = 9; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 9; numero de ACK = 9; numero de MSS= 512
+Recibe DATOS; numero de segmento = 10; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 10; numero de ACK = 10; numero de MSS= 512
+Recibe DATOS; numero de segmento = 11; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 11; numero de ACK = 11; numero de MSS= 512
+Recibe DATOS; numero de segmento = 12; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 12; numero de ACK = 12; numero de MSS= 512
+Recibe DATOS; numero de segmento = 13; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 13; numero de ACK = 13; numero de MSS= 512
+Recibe DATOS; numero de segmento = 14; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 14; numero de ACK = 14; numero de MSS= 512
+Recibe DATOS; numero de segmento = 15; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 15; numero de ACK = 15; numero de MSS= 512
+Recibe DATOS; numero de segmento = 16; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 16; numero de ACK = 16; numero de MSS= 512
+Recibe DATOS; numero de segmento = 17; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 17; numero de ACK = 17; numero de MSS= 512
+Recibe DATOS; numero de segmento = 18; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 18; numero de ACK = 18; numero de MSS= 512
+Recibe DATOS; numero de segmento = 19; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 19; numero de ACK = 19; numero de MSS= 512
+Recibe DATOS; numero de segmento = 20; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 20; numero de ACK = 20; numero de MSS= 512
+Recibe DATOS; numero de segmento = 21; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 21; numero de ACK = 21; numero de MSS= 512
+Recibe DATOS; numero de segmento = 22; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 22; numero de ACK = 22; numero de MSS= 512
+Recibe DATOS; numero de segmento = 23; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 23; numero de ACK = 23; numero de MSS= 512
+Recibe DATOS; numero de segmento = 24; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 24; numero de ACK = 24; numero de MSS= 512
+Envio DATOS; numero de segmento = 0; numero de ACK = 0; numero de MSS= 512
+Recibe ACK_DATOS; numero de segmento = 0; numero de ACK = 0; numero de MSS = 512
+Envio DATOS; numero de segmento = 1; numero de ACK = 0; numero de MSS= 512
+Recibe ACK_DATOS; numero de segmento = 1; numero de ACK = 1; numero de MSS = 512
+Recibe DATOS; numero de segmento = 25; numero de ACK = 0; numero de MSS = 512
+Envio ACK_DATOS; numero de segmento = 25; numero de ACK = 25; numero de MSS= 512
+Recibe DESCONEXION; numero de segmento = 26; numero de ACK = 0; numero de MSS = 512
